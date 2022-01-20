@@ -1,4 +1,6 @@
-<center><img src="https://i.makeagif.com/media/3-14-2016/IhAQFX.gif"></center>
+<p align="center">
+<img src="https://i.makeagif.com/media/3-14-2016/IhAQFX.gif">
+ </p>
 
 <!--
 **mmramos/mmramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
