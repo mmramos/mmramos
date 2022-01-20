@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.makeagif.com/media/3-14-2016/IhAQFX.gif" style="border: 4px solid white;">
+<kbd><img src="https://i.makeagif.com/media/3-14-2016/IhAQFX.gif" style="border: 4px solid white;"></kbd>
  </p>
 
 <!--
